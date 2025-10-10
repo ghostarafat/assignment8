@@ -7,18 +7,26 @@ const Footer = () => {
       <footer className="bg-neutral">
         <div className="footer grid grid-cols-2 sm:grid-cols-3 text-neutral-content py-5 max-w-9/10 mx-auto">
           <div>
-            <h6 className="footer-title">Resourses</h6>
-            <a className="link link-hover">HERO.IO Help Center</a>
-            <a className="link link-hover">HERO.IO Community</a>
-            <a className="link link-hover">HERO.IO Blogs</a>
-            <a className="link link-hover">API Document</a>
+            <h6 className="footer-title">Recourses</h6>
+            <a className="link link-hover"> Help Center</a>
+            <a className="link link-hover">Support</a>
+            <a className="link link-hover">Contact Support</a>
+            <a className="link link-hover">FAQs</a>
+            <a className="link link-hover">Troubleshooting</a>
           </div>
           <div>
-            <h6 className="footer-title">Hero.IO</h6>
-            <a className="link link-hover">About us</a>
-            <a className="link link-hover">Contact</a>
-            <a className="link link-hover">Apps</a>
-            <a className="link link-hover">Research</a>
+            <h6 className="footer-title">Community</h6>
+            <a className="link link-hover">Forums</a>
+            <a className="link link-hover">User Groups</a>
+            <a className="link link-hover">Events</a>
+            <a className="link link-hover">Ambassadors</a>
+          </div>
+          <div>
+            <h6 className="footer-title">Blog</h6>
+            <a className="link link-hover">Tutorials</a>
+            <a className="link link-hover">Guides</a>
+            <a className="link link-hover">Knowledge Base</a>
+            <a className="link link-hover">Release Notes</a>
           </div>
           <div>
             <h6 className="footer-title">Social Links</h6>
@@ -58,6 +66,11 @@ const Footer = () => {
               </Link>
             </div>
           </div>
+        </div>
+
+         {/* Copyright Line */}
+        <div className="text-center text-sm py-3 border-t border-neutral-content/20 text-gray-300">
+          Copyright © 2025 - All right reserved
         </div>
       </footer>
     </>

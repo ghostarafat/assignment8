@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7xbUVkLMh7-sCFxaXARD8-i9J68CjcPQnw&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
     "id": 11,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesR_400x400.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png",
     "title": "Notion",
     "companyName": "Notion Labs, Inc.",
     "id": 18,
@@ -324,9 +324,9 @@
     ]
   },
   {
-    "image": "https://cdn-icons-png.flaticon.com/512/6124/6124999.png",
-    "title": "Spotify",
-    "companyName": "Spotify AB",
+    "image": "https://play-lh.googleusercontent.com/lQYxSdISBENwWO7RCF1j_AzjzdOaa1LUgRckYPFVvDkSWdD8P6jqCZebmAyZfufGpIY",
+    "title": "Shopify",
+    "companyName": "Shopify Inc",
     "id": 19,
     "description": "Spotify lets you stream millions of songs, podcasts, and playlists. Discover new artists, make custom mixes, and listen offline anytime, anywhere.",
     "size": 65,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Google_Photos_icon_%282020%29.svg/512px-Google_Photos_icon_%282020%29.svg.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-96lDFPSvKAjzgkOec1Tl1QZxpXIEWn83UQ&s",
     "title": "Google Photos",
     "companyName": "Google LLC",
     "id": 20,
