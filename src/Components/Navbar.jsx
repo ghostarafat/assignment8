@@ -83,7 +83,7 @@ const Navbar = () => {
             <NavLink
               to="https://github.com/ghostarafat"
               target="_blank"
-              className="btn text-white bg-gradient-to-r from-blue-700 to-violet-600"
+              className="btn text-white  bg-[linear-gradient(125deg,_#632EE3_5.68%,_#9F62F2_88.38%)] hover:opacity-90 transition-opacity duration-200"
             >
               <FaGithub />
               Contribute
