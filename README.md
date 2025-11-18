@@ -3,6 +3,8 @@
 **Hero App Store** is a modern React-based web application that allows users to **explore popular apps**, **install them**, and **manage their installed apps** with ease. The project is **responsive, dynamic, and interactive**, featuring essential functionalities such as **Local Storage integration**, **sorting options**, **chart visualizations**, and **toast notifications** for a smooth user experience.
 
 ---
+🌟 Live Demo
+Client (Live Site):https://assignment8ph12.netlify.app/
 
 ## 🧰 Technologies Used
 - **HTML5** → Provides the basic structure of the web pages  
