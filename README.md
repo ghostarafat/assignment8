@@ -32,17 +32,14 @@
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/ghostarafat/assignment8
+
 Install dependencies:
 
-bash
-Copy code
 cd hero-app
 npm install
 Run the project:
 
-bash
-Copy code
 npm start
 Access locally:
 Open http://localhost:3000 in your browser.
